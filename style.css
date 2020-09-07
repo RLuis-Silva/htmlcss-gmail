@@ -1,0 +1,55 @@
+
+body{
+  color: white;
+  background-image:url(img/background-image.jpg);
+  margin-left: 40px;
+  margin-right: 40px;
+}
+/* .contenitore{
+  margin-left: 40px;
+  margin-right: 40px;
+} */
+
+#bollino{
+  background-color: orange;
+  padding: 2px;
+  border-radius: 50%;
+}
+
+.email{
+  background-color: lightgray;
+  border-style: solid;
+  border-width: thin;
+  margin-bottom: 1px;
+  color: black;
+}
+
+#email_nonLetta{
+  background-color: white;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
+
+img{
+  width:80px;
+}
+
+header span{
+  font-size: 30px;
+}
+
+nav div{
+  font-size: 25px;
+  margin-top: 6px;
+}
+
+footer{
+  text-align: center;
+}
+
+footer strong{
+  font-size: 25px;
+}
